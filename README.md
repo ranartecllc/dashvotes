@@ -1,4 +1,4 @@
-# dashvotes.com
+# [Dash](https://raw.githubusercontent.com/ranartecllc/dashvotes/master/dash.png)Votes
 A proposal for www.dashvotes.com
 
 ## Background
