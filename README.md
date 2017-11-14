@@ -1,4 +1,5 @@
-# [Dash](https://raw.githubusercontent.com/ranartecllc/dashvotes/master/dash.png)Votes
+# Dash Votes
+
 A proposal for www.dashvotes.com
 
 ## Background
@@ -17,5 +18,21 @@ I propose to improve the UI with some very useful features
 ## Mock
 
 ### Mobile View
+  
+  - Search Screen
+  
+  ![Search Screen](Mobile.png)
+  
+  - Filter Screen
+  
+  ![Filter Screen](Filter.png)
+  
+  - Info/Stat Screen
+  
+  ![Info/Stat Screen](Info_Stat.png)
 
 ### Desktop View
+
+  - Search Screen
+  
+  ![Search Screen](Desktop.png)
